@@ -1,4 +1,0 @@
-interface:
-  display_name: "AI PRD Workflow"
-  short_description: "从想法到上线的完整 AI 产品 PRD 工作流"
-  default_prompt: "Use $ai-prd-workflow to turn my AI product idea into a reviewable PRD."
